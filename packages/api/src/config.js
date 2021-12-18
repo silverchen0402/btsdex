@@ -5,7 +5,7 @@ const defaultConfig = {
   expireInSecs: 15,
   expireInSecsProposal: 24 * 60 * 60,
   reviewInSecsCommittee: 24 * 60 * 60,
-  chainId: "4018d7844c78f6a6c41c6a552b898022310fc5dec06da467ee7905a8dad512c8"
+  chainId: "cc488036251a422fca54ecae1d1150e5e52c99baa833f2097b577c80b732ba0f"
 };
 
 let networks = [
