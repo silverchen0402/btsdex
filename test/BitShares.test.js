@@ -1,6 +1,6 @@
 const assert = require("assert"),
   fs = require("fs"),
-  BitShares = require("../lib");
+  BitShares = require("../build");
 
 require("dotenv").config();
 
